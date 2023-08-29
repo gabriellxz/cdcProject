@@ -1,0 +1,41 @@
+.header-home {
+    background-color: rgb(21, 21, 21);
+    width: 100%;
+    box-shadow: 0px 0px 8xpx #000;
+}
+
+.nav-home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em 1em;
+}
+
+.red {
+    background-color: rgb(194, 0, 0);
+    padding: 0.5em;
+}
+
+.yellow {
+    background-color: rgb(252, 231, 6);
+    padding: 0.5em;
+}
+
+.green {
+    background-color: rgb(0, 154, 0);
+    padding: 0.5em;
+}
+
+.logo-home {
+    max-width: 100px;
+    width: 50%;
+}
+
+.li-home {
+    color: #fff;
+}
+
+.ul-home {
+    display: flex;
+    gap: 20px;
+}

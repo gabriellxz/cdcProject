@@ -1,0 +1,11 @@
+.jogador-img {
+    width: 150px;
+}
+
+.container-jogador {
+    color: #fff;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
